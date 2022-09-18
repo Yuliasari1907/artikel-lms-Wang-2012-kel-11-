@@ -85,3 +85,40 @@ Facebook adalah alat sosial yang sangat baik. Penggunaannya sebagai LMS menggang
 **Mahasiswa sarjana merasa bahwa mereka mengenal teman sebayanya lebih baik dan beberapa dari mereka menjadi** 
 
 Para siswa Master setuju bahwa grup Facebook memang membantu mereka mengenal rekan-rekan mereka lebih baik, tetapi tingkatnya relatif lebih rendah.
+
+TABELLLLLLLLLLLLLLLLLLL
+
+
+
+
+Para peserta ragu tentang keberadaan hubungan sosial yang erat dalam grup Facebook. Seorang mahasiswa sarjana menyatakan bahwa Facebook hanya memungkinkan mereka untuk berkomunikasi dalam teks daripada dalam suara atau video. Dia tidak bisa melihat bahasa tubuh atau gerakan orang lain di Facebook. Oleh karena itu, hubungan sosial yang erat sulit untuk dibangun. Ini didukung oleh umpan balik dari mahasiswa master lain yang menjelaskan bahwa: tidak ada interaksi yang erat karena itu “dipaksakan”. 
+>Biaya Teknologi
+
+Biaya teknologi menyelidiki sejauh mana grup Facebook dapat digunakan tanpa kesulitan teknis. Skor rata -rata rendah (M = 3.4 dan M = 3.9) dan nilai deviasi standar tinggi (SD = 1.2 dan SD = 1.1) hingga Q11 yang diperoleh dari kedua kelas menunjukkan bahwa para peserta mengalami masalah teknis tertentu. Salah satu masalah yang nyata adalah bahwa lembaga tersebut dapat menerapkan langkah -langkah tertentu dalam firewall jaringan untuk melarang beberapa fitur Facebook, dan kadang -kadang informasi tersebut ditampilkan secara tidak benar. Masalah ini tidak terjadi ketika mereka mengakses Facebook di luar lembaga. Beberapa kendala teknis lainnya juga berpengalaman ketika mereka menggunakan Facebook. Kendala tercermin pada skor rata -rata rendah dan nilai deviasi standar tinggi ke Q13 (sarjana: M = 3.7, SD = 1.2; Master: M = 3.2, SD = 1.1) dan Q15 (sarjana: M = 3.8, SD = 1.0; Master: M = 3.9, SD = 1.0).. Secara umum, mahasiswa sarjana lebih positif (M = 4,1, SD = 0,9) terhadap penggunaan grup Facebook sebagai LMS daripada siswa master (M = 3,7, SD = 1,1).
+
+>Kekhawatiran siswa
+
+Salah satunya adalah bahwa Facebook tampaknya menjadi alat yang baik untuk mendukung komunikasi dan interaksi sosial tetapi tidak untuk pembelajaran formal. Siswa program master menyatakan bahwa: Facebook adalah alat jejaring sosial yang cukup bagus. Siswa lain menyatakan bahwa mereka tidak nyaman menggunakan Facebook sebagai LMS. 
+**Alasan umum termasuk: (1) mereka tidak ingin teman -teman mereka tahu apa yang mereka lakukan dalam kursus; (2) mereka merasa tidak aman sebagai non-registran untuk kursus dapat dengan mudah bergabung dengan acara kursus; dan (3) Facebook lebih tepat untuk interaksi antara teman sosial. Dalam proses desain dan implementasi kursus, tutor merasa bahwa mudah untuk membuat grup Facebook dan memiliki kontrol lebih besar daripada menggunakan LMS komersial.**
+
+##**Diskusi**
+
+Tujuan utama dari penelitian ini adalah untuk mengeksplorasi cara menggunakan grup Facebook sebagai LMS dan menyelidiki persepsi siswa berdasarkan pengalaman mereka. Temuan penelitian ini menegaskan bahwa grup Facebook memiliki potensi untuk digunakan sebagai LMS. Ini memungkinkan pengumuman, berbagi sumber daya, mengambil bagian dalam diskusi online dan berpartisipasi dalam kegiatan mingguan, yang merupakan fungsi dasar dari LMS. Juga, menggunakan grup Facebook sebagai LMS memberi guru lebih banyak kontrol daripada menggunakan LMS komersial dan mengatasi keterbatasan tertentu dari LMS komersial. Namun, penelitian ini juga mengungkapkan bahwa menggunakan grup Facebook sebagai LMS memiliki sejumlah kendala juga.
+
+>Kendala menggunakan Facebook sebagai LMS
+
+ Grup Facebook tidak mendukung sumber belajar dalam format lain seperti PPT atau PDF untuk diunggah secara langsung, dan dengan demikian situs web pihak ketiga harus digunakan untuk mengatasi keterbatasan ini. Dalam dua kursus ini, Google Documents digunakan untuk meng -host materi pembelajaran dari format lain, dan Kwiksurvey digunakan untuk mengumpulkan umpan balik dari para peserta. Hasilnya menunjukkan bahwa integrasi alat eksternal ditambah dan meningkatkan kemampuan grup Facebook sebagai LMS. 
+
+>Implikasi
+
+Hasil positif dari penelitian ini menyiratkan bahwa grup Facebook dapat digunakan sebagai pengganti atau suplemen LMS. Di sekolah -sekolah di mana LMS komersial tidak dapat diberikan, grup Facebook dapat digunakan sebagai LMS yang berfungsi penuh. Di sekolah lain di mana LMS komersial sudah digunakan, grup Facebook dapat digunakan dalam kegiatan ekstrakurikuler untuk melengkapi interaksi sosial dan ruang profil pribadi, yang sering ditemukan tidak mencukupi dalam LMS (Mazman dan Usluel, 2010). 
+
+>Keterbatasan dan studi di masa depan
+
+Studi ini menghadapi beberapa keterbatasan. Para siswa merasa tidak aman dalam penelitian ini karena mereka menggunakan akun Facebook yang ada. Penelitian menunjukkan bahwa peserta didik cenderung memisahkan "kehidupan" dari "belajar" dan "rumah" dari "kuliah". Mereka tidak ingin mencampur pembelajaran dengan kehidupan sosial (Jones, Blackey, Fitzgibbon & Chew, 2010). Penelitian di masa depan akan mengeksplorasi persepsi siswa tentang penggunaan akun Facebook terpisah untuk belajar. Namun, itu mungkin kehilangan dinamisme sosial dan juga dapat membahayakan jenis keberlanjutan yang membuat Facebook populer. 
+
+##**Kesimpulan**
+
+  Grup Facebook memiliki potensi untuk digunakan sebagai LMS. Ini memiliki biaya pedagogis, sosial dan teknologi, yang memungkinkan pengumuman memasang, berbagi ide dan sumber daya, dan menerapkan diskusi online. Namun, menggunakan grup Facebook sebagai LMS, memiliki kendala tertentu. Itu tidak mendukung file format lain untuk diunggah secara langsung, dan diskusi tidak diatur dalam struktur yang bermakna. Selain itu, konektivitas sosial yang kuat dari Facebook adalah pedang bermata dua. Ini memungkinkan siswa untuk dengan mudah berkomunikasi dan berinteraksi dengan teman sebaya dan guru. Namun, gagal memberikan lingkungan yang aman karena privasi yang dirasakan siswa menurun. Untuk penggunaan Facebook yang efektif dalam pembelajaran, banyak faktor lain seperti desain instruksional yang baik, sikap guru yang positif dan dukungan teknis yang kuat sangat penting (Ozkan dan Koseler, 2009), yang tanpanya potensi itu hampir tidak akan terwujud.
+
+
