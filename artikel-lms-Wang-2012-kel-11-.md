@@ -51,7 +51,8 @@ Berkas dalam format berbeda pertama kali diunggah ke Google Documents. Alamat ya
 
 Fungsi acara di grup Facebook digunakan untuk mengatur materi kursus mingguan. Juga, gambar profil acara dipilih dengan cermat untuk mewakili topik sesi itu.
 Fitur lain dari acara ini adalah bahwa setelah acara dibuat, informasi acara secara otomatis ditempatkan di dinding grup. Ini membantu untuk menjaga setiap peserta diperbarui pada terjadinya kursus.
-# FOTO
+![Screenshot 2022-09-18 162353](https://user-images.githubusercontent.com/112459285/190893175-78244322-8ca5-4296-992a-43bfc7ddc37d.png)
+
 
 > Melakukan diskusi online
 
